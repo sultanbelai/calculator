@@ -118,9 +118,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 This calculator app is part of my portfolio showcasing modern web development skills, clean code practices, and attention to user experience.
 
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com/)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Sultan Belai](https://linkedin.com/in/sultanbelai)
+<!-- - **Portfolio**: [your-portfolio.com](https://your-portfolio.com/) -->
+- **GitHub**: [@sultanbelai](https://github.com/sultanbelai)
+- **LinkedIn**: [Sultan Belai](https://in.linkedin.com/in/sultan-belai-65691416a)
 
 ---
 
