@@ -1,0 +1,51 @@
+{
+  "short_name": "Calculator",
+  "name": "Modern Calculator App - Built with React.js | Sultan Belai",
+  "description": "A beautiful, modern calculator application built with React.js featuring minimalist design, dark/light theme support, responsive design, and full keyboard functionality. Developed by Sultan Belai.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#007bff",
+  "background_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "categories": ["productivity", "utilities"],
+  "lang": "en",
+  "dir": "ltr",
+  "author": "Sultan Belai",
+  "developer": {
+    "name": "Sultan Belai",
+    "url": "https://your-portfolio.com/"
+  },
+  "screenshots": [
+    {
+      "src": "calculator-light.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Calculator in Light Theme"
+    },
+    {
+      "src": "calculator-dark.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Calculator in Dark Theme"
+    }
+  ]
+}
