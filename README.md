@@ -26,7 +26,7 @@ This calculator demonstrates:
 - Node.js (version 14 or higher)
 - npm or yarn
 
-### Installation
+### Local Development
 1. Clone the repository
 2. Install dependencies:
    ```bash
@@ -37,6 +37,21 @@ This calculator demonstrates:
    npm start
    ```
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
+
+### 🚀 Deployment to GitHub Pages
+
+For detailed deployment instructions, see [DEPLOYMENT.md](./DEPLOYMENT.md)
+
+**Quick Deploy:**
+```bash
+# Install gh-pages
+npm install --save-dev gh-pages
+
+# Deploy to GitHub Pages
+npm run deploy
+```
+
+**Live Demo**: [https://yourusername.github.io/calculator](https://yourusername.github.io/calculator)
 
 ## ⌨️ Keyboard Shortcuts
 
