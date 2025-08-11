@@ -2,6 +2,12 @@
 
 A beautiful, modern calculator application built with React.js featuring a minimalist design, dark/light theme support, and full keyboard functionality.
 
+## 🌐 Live Demo
+
+**[🚀 Try the Calculator Live](https://sultanbelai.github.io/calculator/)**
+
+Your calculator app is now live and accessible to anyone worldwide! Perfect for showcasing your development skills in your portfolio.
+
 ## ✨ Features
 
 - **Modern Minimalist Design**: Clean, elegant interface with smooth animations
@@ -51,7 +57,7 @@ npm install --save-dev gh-pages
 npm run deploy
 ```
 
-**Live Demo**: [https://yourusername.github.io/calculator](https://yourusername.github.io/calculator)
+**Live Demo**: [https://sultanbelai.github.io/calculator](https://sultanbelai.github.io/calculator)
 
 ## ⌨️ Keyboard Shortcuts
 
